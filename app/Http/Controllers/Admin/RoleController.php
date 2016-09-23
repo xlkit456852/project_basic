@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers\Admin;
 
-use Bican\Roles\Models\Role;
+use App\Models\Role;
 use Illuminate\Http\Request;
 
 use App\Http\Requests;

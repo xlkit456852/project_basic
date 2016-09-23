@@ -2,9 +2,8 @@
 
 namespace App\Http\Controllers\Admin;
 
-use App\Models\User;
-use Bican\Roles\Models\Permission;
-use Bican\Roles\Models\Role;
+use App\Models\Permission;
+use App\Models\Role;
 use Illuminate\Http\Request;
 
 use App\Http\Requests;
