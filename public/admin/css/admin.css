@@ -1,0 +1,7 @@
+ul,li{list-style: none;margin:0;padding:0;}
+
+/*分页*/
+.pagination{margin:0;float:right;}
+
+/*列表*/
+.cyesno{font-size:18px;}
